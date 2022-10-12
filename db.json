@@ -1,0 +1,28 @@
+{
+      "currentPage": 1,
+      "totalRecords": 2,
+      "content": [
+        {
+          "transactionDate": "13 Apr 2022 14:06:38",
+          "branchInformation": "11906 KCP Jakarta Krekot",
+          "referenceNumber": "9671555847",
+          "transactionType": "Transfer RTGS",
+          "customerName": "Jefri Prasetya",
+          "accountNumber": "1190967885221",
+          "currency": "IDR",
+          "amount": 600000000,
+          "status": "Done"
+        },
+        {
+          "transactionDate": "13 Apr 2022 14:06:38",
+          "branchInformation": "11906 KCP Jakarta Krekot",
+          "referenceNumber": "9671555847",
+          "transactionType": "Transfer RTGS",
+          "customerName": "Jefri Prasetya",
+          "accountNumber": "1190967885221",
+          "currency": "IDR",
+          "amount": 600000000,
+          "status": "Done"
+        }
+      ]
+    }
