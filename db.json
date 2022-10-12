@@ -10,7 +10,8 @@
       "accountNumber": "1190967885221",
       "currency": "IDR",
       "amount": 600000000,
-      "status": "SUCCESS"
+      "status": "RETUR",
+      "transactionTypeCode":"rtgs"
     },
     {
       "id":2,
@@ -22,7 +23,8 @@
       "accountNumber": "1190967885221",
       "currency": "IDR",
       "amount": 600000000,
-      "status": "SUCCESS"
+      "status": "RETUR_ONPROCESS",
+      "transactionTypeCode":"bi-fast"
     }
   ]
 }
