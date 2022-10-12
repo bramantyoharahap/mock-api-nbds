@@ -10,7 +10,7 @@
       "accountNumber": "1190967885221",
       "currency": "IDR",
       "amount": 600000000,
-      "status": "Done"
+      "status": "SUCCESS"
     },
     {
       "id":2,
@@ -22,7 +22,7 @@
       "accountNumber": "1190967885221",
       "currency": "IDR",
       "amount": 600000000,
-      "status": "Done"
+      "status": "SUCCESS"
     }
   ]
 }
